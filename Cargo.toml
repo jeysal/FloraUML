@@ -11,6 +11,7 @@ flora_dot_gen = { path = './dot_gen' }
 
 [workspace]
 members = [
+  "cache",
   "dot_gen",
   "model",
   "parser",
